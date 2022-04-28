@@ -1,0 +1,16 @@
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/TASK.csproj.AssemblyReference.cache
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/TASK.GeneratedMSBuildEditorConfig.editorconfig
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/TASK.AssemblyInfoInputs.cache
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/TASK.AssemblyInfo.cs
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/TASK.csproj.CoreCompileInputs.cache
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/bin/Debug/net5.0/TASK
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/bin/Debug/net5.0/TASK.deps.json
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/bin/Debug/net5.0/TASK.runtimeconfig.json
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/bin/Debug/net5.0/TASK.runtimeconfig.dev.json
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/bin/Debug/net5.0/TASK.dll
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/bin/Debug/net5.0/ref/TASK.dll
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/bin/Debug/net5.0/TASK.pdb
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/TASK.dll
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/ref/TASK.dll
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/TASK.pdb
+/home/prathyushtaneti/BRUCE/CONSOLE-APPLICATIONS/TASK/obj/Debug/net5.0/TASK.genruntimeconfig.cache
